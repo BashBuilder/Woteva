@@ -1,8 +1,13 @@
 {
   "expo": {
-    "scheme": "acme",
+    "scheme": "woteva",
     "userInterfaceStyle": "automatic",
     "orientation": "default",
+    "splash": {
+      "image": "./src/assets/woteva-splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#E3EFE6"
+    },
     "web": {
       "output": "static",
       "bundler": "metro"

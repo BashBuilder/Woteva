@@ -1,6 +1,6 @@
 import { Link } from "expo-router";
 import React from "react";
-import { Image, Text, TouchableOpacity, View } from "react-native";
+import { Image, Text, View } from "react-native";
 import { useSafeAreaInsets } from "react-native-safe-area-context";
 import logo from "../assets/woteva.png";
 import banner1 from "../assets/top-view-delicious-groceries-paper-bag - Copy 1.jpg";
