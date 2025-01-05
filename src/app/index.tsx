@@ -4,7 +4,6 @@ import { Image, ScrollView, Text, View } from "react-native";
 import { useSafeAreaInsets } from "react-native-safe-area-context";
 import logo from "../assets/woteva.png";
 import banner1 from "../assets/top-view-delicious-groceries-paper-bag - Copy 1.jpg";
-// import banner2 from "../assets/rice-that-has-been-peeled-is-placed-with-paddy-white.jpg";
 import banner3 from "../assets/frozen-food-table-arrangement.jpg";
 import banner4 from "../assets/skin care.jpg";
 import banner5 from "../assets/spicy-mango-salsa-featured-image.jpg";
