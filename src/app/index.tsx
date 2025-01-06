@@ -98,7 +98,7 @@ function Header() {
 function Carousel({ title, image, description, buttonText }) {
   return (
     <View className="flex flex-col items-center gap-8 ">
-      <Image source={image} className="object-cover w-full h-[500px] " />
+      <Image source={image} className="object-cover w-full h-[400px] " />
 
       <View className="px-4 space-y-10">
         <Text role="heading" className=" text-5xl text-green-950 text-center ">

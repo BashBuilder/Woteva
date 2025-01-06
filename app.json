@@ -4,7 +4,7 @@
     "userInterfaceStyle": "automatic",
     "orientation": "default",
     "splash": {
-      "image": "./src/assets/woteva-splash.png",
+      "image": "./src/assets/woteva.png",
       "resizeMode": "contain",
       "backgroundColor": "#E3EFE6"
     },
